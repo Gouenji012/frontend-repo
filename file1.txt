@@ -1,1 +1,1 @@
-This is the new content for file1.txt
+This is the latest change in this file
